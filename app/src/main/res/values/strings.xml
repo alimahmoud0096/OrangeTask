@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OrangeTask</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="data_error_remote_request_timeout">Request timeout</string>
+    <string name="data_error_remote_too_many_requests">Too many requests</string>
+    <string name="data_error_remote_no_internet">No internet connection</string>
+    <string name="data_error_remote_server_error">Server error</string>
+    <string name="data_error_remote_serialization_error">Serialization error</string>
+    <string name="data_error_remote_unknown_error">Unknown remote error</string>
+    <string name="book_details">Book Details</string>
+
+</resources>
